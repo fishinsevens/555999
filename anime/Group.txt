@@ -109,7 +109,6 @@ Abema
 YouTube
 CatchPlay
 iTunes
-Remux
 ADWeb
 NTb
 FLUX
@@ -155,3 +154,12 @@ ANK-Raws
 SAIO-Raws
 西农YUI汉化组
 神椿观测站
+WF
+404
+山茶
+爱影
+画质控
+COKEMV
+Nuono
+柊舞缇娜
+宝英
